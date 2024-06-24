@@ -1,0 +1,10 @@
+﻿  Application.cpp
+  Calculator.cpp
+  DZ1.cpp
+  Fraction.cpp
+C:\Users\jjjjj\numbers_representation\DZ1\Fraction.cpp(10,12): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+  LongLong.cpp
+C:\Users\jjjjj\numbers_representation\DZ1\LongLong.cpp(52,100): warning C4554: ">>": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\jjjjj\numbers_representation\DZ1\LongLong.cpp(61,19): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+  Создание кода...
+  DZ1.vcxproj -> C:\Users\jjjjj\numbers_representation\x64\Debug\DZ1.1.exe
